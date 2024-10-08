@@ -1,34 +1,34 @@
-# Hactoberfest 2023
-<img src=https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg />
-A beginner-friendly project to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2023! Hello World Programs and Algorithms! Please leave a star to support this project! 
-![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+# Hactoberfest 2024
+<img src=https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--green.dd2bc4ca.svg />
+A beginner-friendly project to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2024! Hello World Programs and Algorithms! Please leave a star to support this project! 
+![](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--green.dd2bc4ca.svg)
 
 # This All programs For beginner 
 Enjoy All
 Hacktoberfest has a simple and plain moto.
 
 # Beginner-Hacktoberfest
-Need Your first pr for hacktoberfest 2k23 ? come on in 
+Need Your first pr for hacktoberfest 2k24 ? come on in 
 
 ---
 
-# ❓ What's Hacktoberfest 2023?
+# ❓ What's Hacktoberfest 2024?
 
-Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2023.
+Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2024.
 
-During the entire month of October 2022, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
+During the entire month of October 2024, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! and unlock the digital badge through Holopin as each of your four pull/merge requests is accepted by a maintainer, allowing you to customize it.
 
 If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
 
 ---
 
-# 👕 Why Should I Contribute?
+# 🏅 Why Should I Contribute?
 
 Hacktoberfest has a simple and plain moto.
 
-> Support open source and earn a limited edition T-shirt!
+> Support open source and earn a digital badge
 
-So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.  
+So,yes! you'll receive a badge, which unlocks new levels as you contribute more, letting you to customize it and share your achievements with the community. On plus side, you will get into beautiful world of open source and get the international exposure.  
 **Wait there's more!**
 
 
@@ -43,7 +43,7 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 4. **Now click on Propose button.**
 5. **Create a new pull request.**
 6. **Wait for your Pull Request to be reviewed and merged!**
-7. **Enjoy and welcome to Hacktoberfest 2023 and Keep Contributing :)**
+7. **Enjoy and welcome to Hacktoberfest 2024 and Keep Contributing :)**
 
 > You Can Upload Coded Projects In the Codes Directory 
 
@@ -65,7 +65,7 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 ---
 
 ## 🎯Objectives
-**The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022**
+**The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2024**
 
 <!-- # :handshake: Our Contributors
 <a href="https://github.com/hctnm2/Beginner-Hacktoberfest/graphs/contributors">
